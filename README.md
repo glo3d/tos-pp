@@ -13,20 +13,12 @@ This repository contains:
 ## 🛠 Purpose
 
 - Track changes to legal documents over time
-- Collaborate internally on proposed updates
 - Provide a reliable history for compliance and auditing
 - Automatically sync the latest version of documents with the Glo3D web application
 
-## ✅ Best Practices
-
-- All changes should be submitted via pull requests with a clear description of the update
-- Each change should be reviewed by the appropriate stakeholders (legal, compliance, etc.)
-- Document the reason for each change in the PR or commit message
-- Use semantic versioning-style tags (e.g., `v1.0.0`, `v1.1.0`) when publishing new versions to production
-
 ## 🔄 Syncing with Web Application
 
-Our deployment pipeline automatically syncs the latest approved version of these documents with the Glo3D production web application. Please ensure all content is properly reviewed and approved before merging to the main branch.
+Our deployment pipeline automatically syncs the latest approved version of these documents with the Glo3D production web application.
 
 ## 📬 Questions or Feedback?
 
