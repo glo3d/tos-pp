@@ -28,8 +28,8 @@ Additionally, Glo3D does not use Google Workspace APIs to develop, improve, or t
 
 To share your content to YouTube, we use YouTube API Services. By activating this feature, you are:
 
-### - Agreeing to both Glo3D Terms of Service AND Google Privacy Policy
-### - Agreeing to be bound by the YouTube Terms of Service
+   - Agreeing to both Glo3D Terms of Service AND Google Privacy Policy
+   - Agreeing to be bound by the YouTube Terms of Service
 
 To revoke API Client’s access to your data, go to the Google security setting.
 
@@ -41,14 +41,14 @@ New services are added frequently and these terms, therefore, may be modified an
 
 This Platform is private property and all interactions on this Platform must comply with these Terms of service. Users are required to restrict any and all activity with the Platform to that which involves lawful purposes only. User participation and interaction is encouraged on the Platform and the Platform may contain discussion forums, bulletin boards, public recommendations, review services or other forums in which you or third parties may post reviews or other content, messages, materials or other items on the Platform. By using our Platform, you expressly agree not to post, upload to, transmit, distribute, store, create or otherwise publish through this Platform any of the following:
 
-### - Any message, data, information, text, music, sound, photos, graphics, code, or other material that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, or otherwise objectionable;
-### - Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any   local, state, national or international law;
-### - Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-### - Content that would violate or infringe upon the rights of others;
-### - Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-### - Content that is false and misleading;
-### - Unsolicited promotions, political campaigning, advertising or solicitations;
-### - Viruses, corrupted data, or other harmful, disruptive, or destructive files;
+ - Any message, data, information, text, music, sound, photos, graphics, code, or other material that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, or otherwise objectionable;
+ - Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any   local, state, national or international law;
+ - Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
+ - Content that would violate or infringe upon the rights of others;
+ - Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
+ - Content that is false and misleading;
+ - Unsolicited promotions, political campaigning, advertising or solicitations;
+ - Viruses, corrupted data, or other harmful, disruptive, or destructive files;
 
 Glo3D takes no responsibility and assumes no liability for any Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is Glo3D liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter on the Platform. Although Glo3D has no obligation to screen, edit, or monitor any of the Content posted to or distributed through any Interactive Area, Glo3D reserves the right, and has absolute discretion, to remove, screen, or edit without notice any Content posted or stored on the Platform at any time and for any reason.
 
@@ -67,47 +67,47 @@ The following terms apply to the use of specific categories of services provided
 ### 1. **Digital Merchandising**  
    This category includes products such as Guided Photography, Custom Background, 360 Car Photography, Walkaround Videos, and Engine Video.
 
-   #### - **Limitation of Liability:** Glo3D is not responsible for any inaccuracies, misrepresentations, or defects in vehicle images, videos, or other visual content resulting from the use of our Digital Merchandising tools. This includes, but is not limited to, errors due to user input, software processing, or technical limitations. Users are solely responsible for ensuring that all visual content accurately reflects the condition, features, and specifications of the vehicles and complies with all applicable laws and regulations.  
-   #### - **User Responsibility:** Users must verify the quality and accuracy of all outputs (e.g., photos, 360-degree spins, or videos) before publication. Glo3D is not liable for any losses, damages, or customer disputes arising from misleading or inaccurate vehicle representations.
+   - **Limitation of Liability:** Glo3D is not responsible for any inaccuracies, misrepresentations, or defects in vehicle images, videos, or other visual content resulting from the use of our Digital Merchandising tools. This includes, but is not limited to, errors due to user input, software processing, or technical limitations. Users are solely responsible for ensuring that all visual content accurately reflects the condition, features, and specifications of the vehicles and complies with all applicable laws and regulations.  
+   - **User Responsibility:** Users must verify the quality and accuracy of all outputs (e.g., photos, 360-degree spins, or videos) before publication. Glo3D is not liable for any losses, damages, or customer disputes arising from misleading or inaccurate vehicle representations.
 
 ### 2. **Video Marketing**  
    This category includes products such as Inventory Video Tour, YouTube Car Reviews, Feature Videos, Why Us Media, Social Video, and Service Video.
 
-   #### - **Limitation of Liability:** Glo3D is not responsible for the content, accuracy, availability, or legality of third-party videos or media embedded or utilized through our Video Marketing tools (e.g., YouTube Car Reviews). We do not guarantee the continued availability of such content or its suitability for your purposes. Additionally, Glo3D is not liable for any errors or omissions in AI-generated videos (e.g., Inventory Video Tour) or for any customer actions based on video content.  
-   #### - **User Responsibility:** Users are responsible for ensuring that all embedded or utilized content complies with applicable laws, does not infringe on third-party rights (e.g., copyright), and is appropriate for their intended audience. Users must also ensure that personalized videos (e.g., Social Video) align with dealership policies and legal requirements.
+   - **Limitation of Liability:** Glo3D is not responsible for the content, accuracy, availability, or legality of third-party videos or media embedded or utilized through our Video Marketing tools (e.g., YouTube Car Reviews). We do not guarantee the continued availability of such content or its suitability for your purposes. Additionally, Glo3D is not liable for any errors or omissions in AI-generated videos (e.g., Inventory Video Tour) or for any customer actions based on video content.  
+   - **User Responsibility:** Users are responsible for ensuring that all embedded or utilized content complies with applicable laws, does not infringe on third-party rights (e.g., copyright), and is appropriate for their intended audience. Users must also ensure that personalized videos (e.g., Social Video) align with dealership policies and legal requirements.
 
 ### 3. **Social Media Marketing**  
    This category includes products such as Inventory to Social Media Automation and Facebook Marketplace Auto-Post.
    
-   #### - **Limitation of Liability:** Users acknowledge that using automated posting features, such as Inventory to Social Media Automation and Facebook Marketplace Auto-Post, may violate the terms of service of certain social media platforms (e.g., Facebook Marketplace, which is primarily designed for consumer-to-consumer transactions). This could result in account restrictions, suspensions, or bans. Glo3D is not liable for any such consequences, including loss of account access, data, or business opportunities, and users assume all risks associated with using these features.  
-   #### - **Account Requirements:** Users must use legitimate, authorized accounts for automated posting. The use of fake, unauthorized, or third-party accounts is strictly prohibited, and Glo3D is not responsible for any consequences arising from such use.  
-   #### - **Content Responsibility:** Users are solely responsible for the content posted through our automated social media tools, including its accuracy, legality, and compliance with platform guidelines and applicable laws. Glo3D is not liable for any penalties, damages, or disputes resulting from posted content.
+   - **Limitation of Liability:** Users acknowledge that using automated posting features, such as Inventory to Social Media Automation and Facebook Marketplace Auto-Post, may violate the terms of service of certain social media platforms (e.g., Facebook Marketplace, which is primarily designed for consumer-to-consumer transactions). This could result in account restrictions, suspensions, or bans. Glo3D is not liable for any such consequences, including loss of account access, data, or business opportunities, and users assume all risks associated with using these features.  
+   - **Account Requirements:** Users must use legitimate, authorized accounts for automated posting. The use of fake, unauthorized, or third-party accounts is strictly prohibited, and Glo3D is not responsible for any consequences arising from such use.  
+   - **Content Responsibility:** Users are solely responsible for the content posted through our automated social media tools, including its accuracy, legality, and compliance with platform guidelines and applicable laws. Glo3D is not liable for any penalties, damages, or disputes resulting from posted content.
 
 ### 4. **Paid Ads Management**  
    This category includes products such as Google Vehicle Ads, Facebook Ads, Automotive Inventory Ads (AIA), TikTok Ads, X Ads, and Craigslist Auto-Post.
 
-   #### - **Limitation of Liability:** Glo3D does not guarantee the performance, success, or return on investment (ROI) of any advertising campaigns managed through our platform. We are not responsible for losses or damages resulting from disapproved ads, account suspensions, suboptimal campaign performance, or wasted ad spend due to factors such as platform policies, user settings, or market conditions. AI-driven recommendations are provided as a convenience and do not constitute a guarantee of results.  
-   #### - **User Responsibility:** Users are responsible for setting appropriate budgets, targeting parameters, and ensuring that their advertisements comply with the policies of the respective advertising platforms (e.g., Google, Facebook, TikTok) and all applicable laws. Users are solely accountable for the content of their advertisements, including its accuracy and legality.
+   - **Limitation of Liability:** Glo3D does not guarantee the performance, success, or return on investment (ROI) of any advertising campaigns managed through our platform. We are not responsible for losses or damages resulting from disapproved ads, account suspensions, suboptimal campaign performance, or wasted ad spend due to factors such as platform policies, user settings, or market conditions. AI-driven recommendations are provided as a convenience and do not constitute a guarantee of results.  
+   - **User Responsibility:** Users are responsible for setting appropriate budgets, targeting parameters, and ensuring that their advertisements comply with the policies of the respective advertising platforms (e.g., Google, Facebook, TikTok) and all applicable laws. Users are solely accountable for the content of their advertisements, including its accuracy and legality.
 
 ### 5. **Local SEO**  
    This category includes products such as Virtual Showroom and Google Vehicle Listing (including Business Profile Manager and Reputation Manager).
 
-   #### - **Limitation of Liability:** Glo3D makes no guarantees regarding search engine rankings, visibility in local search results, or the effectiveness of our Local SEO tools. We are not liable for any negative impacts on reputation, business, or sales resulting from the use of these tools, including inaccurate listings, outdated information, or unfavorable customer reviews. Search engine algorithms and third-party platform policies are beyond our control.  
-   #### - **User Responsibility:** Users are responsible for the accuracy, timeliness, and legality of the information provided through these tools (e.g., inventory data, business profiles). Users must also manage their online reputation, including responding to reviews, and ensure compliance with local laws and platform requirements.
+   - **Limitation of Liability:** Glo3D makes no guarantees regarding search engine rankings, visibility in local search results, or the effectiveness of our Local SEO tools. We are not liable for any negative impacts on reputation, business, or sales resulting from the use of these tools, including inaccurate listings, outdated information, or unfavorable customer reviews. Search engine algorithms and third-party platform policies are beyond our control.  
+   - **User Responsibility:** Users are responsible for the accuracy, timeliness, and legality of the information provided through these tools (e.g., inventory data, business profiles). Users must also manage their online reputation, including responding to reviews, and ensure compliance with local laws and platform requirements.
 
 ### 6. **AI BDC**  
    This category includes products such as Super Chatbot, AI BDR, Instant Car Value, Price Advisor, Request CARFAX, AI Sales Coach, and Web Capture.
 
-   #### - **Limitation of Liability:** Any information, estimates, promises, or responses provided by Glo3D’s AI-powered tools (e.g., Super Chatbot, AI BDR, Instant Car Value) are for informational purposes only and are not binding. Glo3D is not liable for any inaccuracies, errors, or omissions in the information provided, nor for any actions taken by users or customers based on such information. This includes, but is not limited to, pricing estimates, promotions, or vehicle valuations that may change or prove incorrect. AI tools are not a substitute for human judgment or professional advice, and users assume all risks associated with reliance on AI outputs.  
-   #### - **User Responsibility:** Users should verify any critical information provided by these tools before acting on it or sharing it with customers. Glo3D is not responsible for customer disputes, financial losses, or reputational damage arising from AI interactions.  
-   #### - **Informational Purpose:** Any information, price, or promotional offers provided by the AI BDR and AI Chatbot are for informational purposes only and are not guaranteed. Glo3D makes no assurances regarding the accuracy of such information, which is subject to change without notice.  
-   #### - **Liability Limitation:** Glo3D is not liable for any discrepancies or losses incurred due to information provided by the AI BDR and AI Chatbot, including but not limited to pricing errors or miscommunications.
+   - **Limitation of Liability:** Any information, estimates, promises, or responses provided by Glo3D’s AI-powered tools (e.g., Super Chatbot, AI BDR, Instant Car Value) are for informational purposes only and are not binding. Glo3D is not liable for any inaccuracies, errors, or omissions in the information provided, nor for any actions taken by users or customers based on such information. This includes, but is not limited to, pricing estimates, promotions, or vehicle valuations that may change or prove incorrect. AI tools are not a substitute for human judgment or professional advice, and users assume all risks associated with reliance on AI outputs.  
+   - **User Responsibility:** Users should verify any critical information provided by these tools before acting on it or sharing it with customers. Glo3D is not responsible for customer disputes, financial losses, or reputational damage arising from AI interactions.  
+   - **Informational Purpose:** Any information, price, or promotional offers provided by the AI BDR and AI Chatbot are for informational purposes only and are not guaranteed. Glo3D makes no assurances regarding the accuracy of such information, which is subject to change without notice.  
+   - **Liability Limitation:** Glo3D is not liable for any discrepancies or losses incurred due to information provided by the AI BDR and AI Chatbot, including but not limited to pricing errors or miscommunications.
 
 ## **General Provisions for All Services**
 
-### - **Authority and Permissions**: By using Glo3D’s services, users represent and warrant that they have the necessary authority and permissions from their dealership or organization to access, process, and utilize inventory data and to engage in the marketing activities facilitated by our platform. Glo3D is not liable for any disputes or damages resulting from unauthorized use.
-### - **Third-Party Platforms:** Glo3D’s services may integrate with or rely on third-party platforms (e.g., Facebook, Google, YouTube). We are not responsible for the availability, accuracy, policies, or practices of these third-party services, and users assume all risks associated with their use, including changes to terms, service interruptions, or data loss.
-### - **Compliance:** Users are solely responsible for ensuring that their use of Glo3D’s services complies with all applicable laws, regulations, and third-party terms of service. Glo3D is not liable for any penalties, fines, or legal actions resulting from non-compliance.
+ - **Authority and Permissions**: By using Glo3D’s services, users represent and warrant that they have the necessary authority and permissions from their dealership or organization to access, process, and utilize inventory data and to engage in the marketing activities facilitated by our platform. Glo3D is not liable for any disputes or damages resulting from unauthorized use.
+ - **Third-Party Platforms:** Glo3D’s services may integrate with or rely on third-party platforms (e.g., Facebook, Google, YouTube). We are not responsible for the availability, accuracy, policies, or practices of these third-party services, and users assume all risks associated with their use, including changes to terms, service interruptions, or data loss.
+ - **Compliance:** Users are solely responsible for ensuring that their use of Glo3D’s services complies with all applicable laws, regulations, and third-party terms of service. Glo3D is not liable for any penalties, fines, or legal actions resulting from non-compliance.
 
 ## **INDEMNIFICATION**
 
@@ -137,7 +137,7 @@ We reserve the right, without notice and in our sole discretion, to terminate yo
 
 You will be notified at the first reasonable opportunity about any theft, loss, or unauthorized use of your personal information. Glo3D is accountable for all personal information under its control. Should you have any questions, concerns, or proposed amendments to your personal information, please feel free to contact our designated privacy officer at:
 
-### - Email: Support@Glo3D.com
-### - Mail: 2323 Yonge St, Unit 503, Toronto, ON M4P 2C9
+- Email: Support@Glo3D.com
+- Mail: 2323 Yonge St, Unit 503, Toronto, ON M4P 2C9
 
 Should there be a privacy breach or even a potential breach, you also have the right to make a formal complaint to the Information and Privacy Commissioner of Ontario at (416) 326- 3333 or by email at commissioner@ipc.on.ca These terms and policies were last modified on Sep 16, 2024.
